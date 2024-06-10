@@ -13,7 +13,8 @@ The first screen displays the student's name and student number, along with the 
 
 The second screen is where the magic happens! Here, students can enter the temperature for each day of the week, and the app will calculate the average temperature. The calculation is done in real-time, and the result is displayed at the bottom of the screen. This screen is designed to be interactive, allowing students to input their own data and see the results instantly.
 
-*Screen 3: Weather Forecast*
+*Screen 3: Weather Forecast*![image](https://github.com/ST10444782/IMAD-EXAM/assets/161002155/7cdbcfd6-c4a5-491c-8882-1d7ea44ac49d)
+
 
 The third and final screen displays the weather forecast for the upcoming days. This screen is designed to be simple and easy to read, with a clear and concise display of the weather conditions.
 
