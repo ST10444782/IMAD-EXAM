@@ -111,6 +111,11 @@ class MainActivity : AppCompatActivity() {
 
     }
         }
+// www.w3schools.com/kotlin/Index.php
+// The IIE.2024. Functions[IMAD5112]
+//The IIE.2024.Declaraing variables [IMAD Module Manual]
+// Sandile Mhlanga. 2024. Arrays
+
 
 
 
